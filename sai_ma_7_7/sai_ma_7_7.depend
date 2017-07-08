@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1499437547 source:/home/robot/mjq/sai_ma_7_7/main.cpp
+	<iostream>
+	<string>
+	<vector>
+
